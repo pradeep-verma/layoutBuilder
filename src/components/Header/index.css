@@ -1,0 +1,12 @@
+.header-container {
+  width: 100%;
+  background-color: #cbd5e1;
+}
+.header-title {
+  font-size: 32px;
+  font-weight: 600;
+  font-family: 'Roboto';
+  color: #475569;
+  text-align: center;
+  margin: 10px;
+}
